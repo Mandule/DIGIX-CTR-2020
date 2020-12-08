@@ -1,0 +1,8 @@
+*.pkl
+*.npy
+*.h5
+*.log
+*.csv
+*.vscode
+.ipynb_checkpoints
+__pycache__
