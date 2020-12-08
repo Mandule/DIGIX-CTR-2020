@@ -1,4 +1,4 @@
-# [DIGIX-2020-CTR]('http://developer.huawei.com/consumer/en/activity/devStarAI/algo/')
+# [DIGIXCTR-2020]('http://developer.huawei.com/consumer/en/activity/devStarAI/algo/')
 
 ![rank](picture/rank.png)
 
